@@ -1,0 +1,176 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+  /*header*/
+
+  .header__navborded {
+    max-width: 750px;
+  }
+
+  .navborder__line {
+    max-width: 750px;
+    margin: 0px auto;
+  }
+
+  .navborder__line--size {
+    max-width: 730px;
+  }
+
+  /*main*/
+
+  .main {
+    max-width: 750px;
+    margin: 30px auto;
+    min-height: 1680px;
+  }
+
+    /*blog*/
+
+    .main-blog {
+      max-width: 750px;
+      height: 2600px;
+    }
+
+      /*aside*/
+
+      .main__aside {
+        max-width: 260px;
+      }
+
+      .promo__caption {
+        top: 140px;
+      }
+
+      .img__promo {
+        max-width: 260px;
+        max-height: 147px;
+      }
+
+      .bottom-box__button {
+        margin-top: 5px;
+
+      }
+
+      /*article*/
+
+      .main__article {
+        max-width: 470px;
+      }
+
+      .top-news__promo {
+        max-width: 470px;
+        max-height: 305px;
+      }
+
+      .top-news__caption {
+        top: 290px;
+      }
+
+      .top-news__caption-fix {
+        top: 280px;
+      }
+
+      .section__little-news {
+        max-width: 470px;
+      }
+
+      .section__little-news-left {
+        margin-right: 0px;
+      }
+
+      .little-news__promo {
+        width: 470px;
+        height: 305px;
+      }
+
+      .little-news__caption {
+        top: 290px;
+      }
+
+      .little-news__caption-fix-more {
+        margin-top: -70px;
+      }
+
+      .little-news__button {
+        padding: 5px;
+      }
+
+  /*footer*/
+
+  .footer-images {
+    margin-top: 40px;
+    width: 700px;
+  }
+
+  .container-white {
+    margin-top: 30px;
+  }
+
+  .footer__left-img {
+    width: 200px;
+    margin-top: 140px;
+  }
+
+  .footer__right-img {
+    width: 200px;
+    margin-top: -30px;
+  }
+
+  .content__social__icon {
+    width: 50px;
+  }
+
+  .contetn__icons {
+    width: 400px;
+    padding: 0px 5%;
+  }
+
+  .container__forms-text {
+    height: 90px;
+  }
+
+  .container__social__icon {
+    width: 40px;
+  }
+
+  /*fonts*/
+
+  .header__navigation-item-link {
+    font-size: 27px;
+  }
+
+  .about__content {
+    font-size: 25px;
+  }
+
+  .promo__link {
+    font-size: 16px;
+  }
+
+  .little-news__data {
+    font-size: 20px;
+  }
+
+  .little-news__views {
+    font-size: 20px;
+  }
+
+  .little-news__button {
+    font-size: 20px;
+  }
+
+  .contacts-geo {
+    font-size: 23px;
+  }
+
+  .contacts-mail {
+    font-size: 23px;
+  }
+
+  .contacts-phone {
+    font-size: 23px;
+  }
+
+  .container-button {
+    font-size: 20px;
+  }
+}
